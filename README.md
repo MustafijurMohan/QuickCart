@@ -218,15 +218,11 @@ Backend:  http://localhost:4000
 
 ## 🙋‍♂️ Author
 
-**Mustafijur Rahman**
+**Mustafijur Mohan**
 Full Stack Developer (MERN)
 
-- GitHub: [@your-github](https://github.com/your-github)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-- Fiverr: [your-fiverr](https://fiverr.com/your-fiverr)
+- GitHub: [@your-github](https://github.com/MustafijurMohan)
+- LinkedIn: [your-linkedin](https://linkedin.com/in/mustafijur-mohan)
+- Fiverr: [your-fiverr](https://fiverr.com/mustafijur_123)
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
