@@ -221,8 +221,8 @@ Backend:  http://localhost:4000
 **Mustafijur Mohan**
 Full Stack Developer (MERN)
 
-- GitHub: [@your-github](https://github.com/MustafijurMohan)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/mustafijur-mohan)
-- Fiverr: [your-fiverr](https://fiverr.com/mustafijur_123)
+- GitHub: [MustafijurMohan](https://github.com/MustafijurMohan)
+- LinkedIn: [MustafijurMohan](https://linkedin.com/in/mustafijur-mohan)
+- Fiverr: [MustafijurMohan](https://fiverr.com/mustafijur_123)
 
 ---
